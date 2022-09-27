@@ -27,9 +27,6 @@ public class SPTV21Task4AnatoliIvanov {
                 arr[i] = randNum.nextInt(100);
                 sum += arr[i];
                 avg = sum/100;
-                if(i<10){
-                    System.out.print("\n");
-                }
                 
             }
             
